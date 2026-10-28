@@ -1,0 +1,20 @@
+{
+  "name": "family-goal-bucket-planner",
+  "version": "1.0.0",
+  "description": "Plans a household portfolio by goal buckets instead of expected return: health check, risk level, four purpose buckets, and Monte-Carlo attainment with a two-tier downside veto.",
+  "author": {
+    "name": "yangsssssss",
+    "url": "https://github.com/yangsssssss"
+  },
+  "homepage": "https://github.com/yangsssssss/family-goal-bucket-planner",
+  "repository": "https://github.com/yangsssssss/family-goal-bucket-planner",
+  "license": "MIT",
+  "keywords": [
+    "finance",
+    "asset-allocation",
+    "financial-planning",
+    "monte-carlo",
+    "goal-based-investing",
+    "retirement"
+  ]
+}
